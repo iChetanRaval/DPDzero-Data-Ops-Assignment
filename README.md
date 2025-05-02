@@ -59,9 +59,9 @@ Outputs
 
 Agent Performance for 2025-04-28
 ---------------------------
-Top Performer: Ravi Sharma (98% connect rate)
-Total Active Agents: 45
-Average Duration: 6.5 min
+Top Performer: Ravi Sharma (98% connect rate)\n
+Total Active Agents: 45\n
+Average Duration: 6.5 min\n
 
 # FAQ
 **❓ Where does the data get stored?**
